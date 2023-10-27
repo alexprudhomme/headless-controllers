@@ -1,0 +1,4 @@
+- [x] buildRecommendationList
+- [x] buildInteractiveResult
+- [x] buildContext
+- [x] buildDictionaryFieldContext

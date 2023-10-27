@@ -1,0 +1,7 @@
+[[search]]
+[[recommendation]]
+[[insight]]
+[[case-assist]]
+[[product-listing]]
+[[product-recommendation]]
+[[commerce]]

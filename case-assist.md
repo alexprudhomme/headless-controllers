@@ -1,0 +1,8 @@
+- [x] buildCaseInput
+- [x] buildCaseField
+- [ ] buildQuickview -- TO REMOVE IN V3
+- [x] buildCaseAssistQuickview
+- [x] buildDocumentSuggestionList
+- [ ] buildInteractiveResult -- TO REMOVE IN V3
+- [x] buildDocumentSuggestion
+- [x] buildCaseAssistInteractiveResult

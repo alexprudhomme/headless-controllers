@@ -1,0 +1,15 @@
+- [x] buildProductListing
+- [x] buildPager
+- [x] buildResultsPerPage
+- [x] buildSort
+- [x] buildFacetManager
+- [x] buildFacet
+- [x] buildCategoryFacet
+- [x] buildDateFacet
+- [x] buildDateRange
+- [x] buildDateFilter
+- [x] buildNumericFacet
+- [x] buildNumericRange
+- [x] buildNumericFilter
+- [x] buildContext
+- [x] buildInteractiveResult
